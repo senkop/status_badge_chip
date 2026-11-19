@@ -1,0 +1,25 @@
+name: status_badge_chip
+description: "Status badges for Flutter tables and lists: success, warning, error, info and neutral, with dot, icon, outlined and soft styles."
+version: 0.1.0
+homepage: https://github.com/senkop/status_badge_chip
+repository: https://github.com/senkop/status_badge_chip
+issue_tracker: https://github.com/senkop/status_badge_chip/issues
+topics:
+  - badge
+  - chip
+  - status
+  - label
+  - widget
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
